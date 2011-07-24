@@ -1,0 +1,3 @@
+name = HTML Export
+description = This allows you to export drupal nodes to an HTML format.
+core = 7.x
